@@ -7,3 +7,6 @@ In this repo, the reader will find three files:
 * Primary sources: This file contains the bibtex with all the studies considered in our contribution. 
 * Biblioography: Other bibliography used in the paper but not resulting from the search in databases. 
 * Data_categories: An excel file depicting the categorization performed in this study. 
+
+
+[![DOI](https://zenodo.org/badge/180096446.svg)](https://zenodo.org/badge/latestdoi/180096446)
